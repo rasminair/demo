@@ -1,2 +1,2 @@
 # demo
-this is my first repo with 1to10X git claa
+this is my first repo with 1to10X git class
